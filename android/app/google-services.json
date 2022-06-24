@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "669019497504",
+    "project_id": "picshare-8041e",
+    "storage_bucket": "picshare-8041e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669019497504:android:af87bbc332753c6607c845",
+        "android_client_info": {
+          "package_name": "com.pratyush.PicShare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669019497504-l0phqd3ni5i09r8dqouvc34ola5g97i8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pratyush.PicShare",
+            "certificate_hash": "0aed92e03db8768d51e6f161fa6268a9f9aafbfb"
+          }
+        },
+        {
+          "client_id": "669019497504-uehp4kot5tisag76s1nl9kiqotp7n58m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRb7kSyceDt_AAfYMcy3og6eILQlmzIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669019497504-uehp4kot5tisag76s1nl9kiqotp7n58m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
